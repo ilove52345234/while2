@@ -12,3 +12,4 @@ while x > 0:
 			print('還有', x, '次機會')
 		else:
 			print('請聯絡客服人員!')
+			
